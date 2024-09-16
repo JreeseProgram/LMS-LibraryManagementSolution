@@ -1,5 +1,8 @@
 package com.lms;
-
+/*                  METHODS
+ * This file contains simple actions that will be used many
+ * times througout the program to increase readability
+ */
 import java.util.Scanner;
 
 public class Methods {

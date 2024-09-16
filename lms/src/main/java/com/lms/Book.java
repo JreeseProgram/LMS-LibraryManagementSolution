@@ -1,5 +1,9 @@
 package com.lms;
-
+/*                               BOOK
+ * Contains the Book object as well as some specific methods such as 
+ * Delete book, Add Book, Sort book to easily perform book related tasks
+ * as well as the menu for interacting with the books
+ */
 import java.util.ArrayList;
 import java.util.Collections;
 
